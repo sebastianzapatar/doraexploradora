@@ -1,2 +1,2 @@
-print("Hola desde Envigueto que sueño")
-print("Tengo hambre quiero hamburguesa")
+for i in range(11):
+    print("Profe tengo sueño")
